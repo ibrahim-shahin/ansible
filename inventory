@@ -1,3 +1,11 @@
+[workstations]
+192.168.174.128
+
+[web_servers]
 172.17.0.2
+
+[db_servers]
 172.17.0.3
+
+[file_servers]
 172.17.0.4
